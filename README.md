@@ -1,7 +1,7 @@
 # Discord Bot
 - Play music, kick members and clear chat.
 
-##Commands:
+## Commands:
 - !play <youtubeUrl>
 - !kick <@mentionedMember>
 - !clear <optinalAmount>
