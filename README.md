@@ -2,7 +2,7 @@
 - Play music, kick members and clear chat.
 
 ## Commands:
-- !play <youtubeUrl>
-- !kick <@mentionedMember>
-- !clear <optinalAmount>
+- !play [requiredYoutubeUrl]
+- !kick [@mentionedMember]
+- !clear [optinalAmount]
 
