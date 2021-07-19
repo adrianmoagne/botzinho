@@ -5,4 +5,7 @@
 - !play [requiredYoutubeUrl]
 - !kick [@mentionedMember]
 - !clear [optinalAmount]
-
+- !resume
+- !skip
+- !stop
+- !pause
